@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .env
+
+# WordPress plugin build artifacts
+/wp-react-design-editor/vendor/
