@@ -1,0 +1,14 @@
+{
+    "name": "react-design/react-design-editor",
+    "description": "WooCommerce product design editor and pricing engine.",
+    "type": "wordpress-plugin",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "ReactDesignEditor\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
